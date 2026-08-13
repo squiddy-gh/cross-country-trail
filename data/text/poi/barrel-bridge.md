@@ -1,0 +1,1 @@
+Built in 1946 by imprisoned laborers from the nearby Lorton Workhouse using bricks made in their own brickyard, this is known as a voussoir arch — or “barrel” — bridge, named for its resemblance to the inside of a wooden barrel. It's the only structure of its kind in Virginia, and once carried a spur of the Lorton & Occoquan Railroad.

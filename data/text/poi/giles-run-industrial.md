@@ -1,0 +1,1 @@
+Depending on the season, you might catch a glimpse of an old industrial site along the banks of Giles Run. As you cross the pedestrian bridge, keep a lookout for the mysterious structures — what were they used for?

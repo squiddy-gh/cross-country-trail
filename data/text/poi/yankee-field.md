@@ -1,0 +1,1 @@
+Home of the West Springfield Little League — an alternative parking spot, a bathroom break, and if you're lucky, a game in play (and maybe a hot dog for sale).

@@ -1,0 +1,3 @@
+*You'll find the sign for this pocket park and trailhead just off Leeds Road (#2514), slightly out of view — look closely as you round the curve so you don't miss it. Be aware of ruts*
+
+This 12-acre portion of the Difficult Run Stream Valley was once a showplace for ornamental and horticultural plantings. Though it's largely reverted to its wild state, visitors can still spot the original stone terrace, man-made ponds, perennials, and bamboo along the side trails. The park honors Ira Gabrielson — founding chairman of NOVA Parks, founding president of the U.S. Fish and Wildlife Service, and director of the World Wildlife Fund.

@@ -1,0 +1,3 @@
+Hill  Before colonists arrived, native inhabitants frequented the area to mine local quartz for arrowheads. Settlers assumed the stone was flint and named the area Flint Hill accordingly. Look closely along Difficult Run, and you're likely to spot some of the opaque, milky stone along the trail. In 1883, Flint Hill was renamed Oakton, after a large tree that stood near its post office
+
+***A word of caution:***  Speaking of arrows — watch for signs indicating an archery program may be taking place along Difficult Run.  

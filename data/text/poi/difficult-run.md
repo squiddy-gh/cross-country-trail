@@ -1,0 +1,5 @@
+“Difficult” seems an apt descriptor for this 16-mile stream, snaking through a narrow, steeply eroded channel on its way up to the Potomac — the trail's northernmost point. At times you might not even realize it's there, the dirt path veering away and bramble thickets obscuring the view. Watch for quartz stone, deer, foxes, ravens, and other critters — and note you're in “Mosby” territory, where the Confederate raider and his Rangers are said to have routinely evaded capture along these hidden trails.
+
+Pieces of history lie buried in the stream — could these cement slabs be remnants of the old mill dam that once ran the Hawxhurst Mill, near Lawyer's Road? “Difficult” to navigate or not, it clearly didn't stop earlier industrialists from putting the water power to use.
+
+For a good stretch here, you'll be traveling along bridle paths, surrounded by a patchwork of horse farms.

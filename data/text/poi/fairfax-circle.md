@@ -1,0 +1,1 @@
+Where the CCT meets Pickett Road, you'll find easy access to food and drink — fast food, Asian eateries, and American pubs — at the Fairfax Circle Shopping Center, Circle Plaza, and the Shops at Stryker's Square. A good spot to start or end a section hike.

@@ -1,0 +1,1 @@
+Chartered in 1849, the Orange and Alexandria Railroad played an important role in the history of Lake Accotink, especially during the Civil War. Its route through the area, including the wooden trestle over Accotink Creek, became a strategic target for both sides of the conflict.

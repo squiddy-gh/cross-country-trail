@@ -1,0 +1,1 @@
+It'll be a while before you'll have another chance to eat or drink, so be mindful of Santini's — just a few hundred feet off the CCT on Chain Bridge Road. Alongside deli sandwiches, they serve pizza, calzones, and an assortment of beverages, including beer and wine. There's a sit-down bar, tables, and outdoor seating; takeout is also available.

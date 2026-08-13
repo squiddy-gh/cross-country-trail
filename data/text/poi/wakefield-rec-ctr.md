@@ -1,0 +1,1 @@
+The community center at Wakefield Park offers ample parking, restrooms, and vending machines stocked with a wide range of cold beverages. This bike-friendly stretch even welcomes mountain-bike night riding on certain evenings — if you're on foot, keep an ear out for cyclists as you make your way through the Accotink Stream Valley.

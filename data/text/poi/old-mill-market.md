@@ -1,0 +1,3 @@
+Just a short walk up the old wagon road, at Walker Road, you'll find a bakery, a wine outlet, and a barbecue joint with a full-service restaurant and full bar. Greek, Italian, and Afghan restaurants are also nearby
+
+Consider starting the next stint of your CCT hike with coffee and pastry, or order pizza to go from the Blue Chicken Bakery and pair it with a bottle of wine from the Wine Outlet. If you're finishing your hike at the Potomac River — the trail's northernmost point — consider packing a picnic.

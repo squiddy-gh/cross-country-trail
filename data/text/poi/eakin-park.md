@@ -1,0 +1,1 @@
+The trail passes through the 57-acre Eakin Mantua Community Park — once part of the massive Ravensworth estate. It's named for LeRoy Eakin, Sr., whose 1951 donation of 14 acres became Fairfax County's very first park. This is a child-friendly segment, with a flat, paved trail and an expansive playground; seasonal portable toilets are on site March through October.

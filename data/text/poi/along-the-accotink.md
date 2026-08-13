@@ -1,0 +1,1 @@
+This picnic table marks the spot of an old swimming hole. A now-frayed rope swing hangs from a tree, though the stream looks too shallow these days for a modern-day plunge.

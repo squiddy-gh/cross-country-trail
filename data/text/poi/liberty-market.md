@@ -1,0 +1,1 @@
+Once part of the Lorton penitentiary complex, Liberty Market is now home to a taco and tequila bar, a hot chicken sandwich shop, a fitness center, and a grocery store. The developers thought “Liberty” fitting, given that they freed the prison complex from its seemingly inevitable demise.

@@ -1,0 +1,1 @@
+Named after the historic brick-making industry that once stood on the site, Brickmaker's Café serves sandwiches, flatbreads, wings, salads, and an assortment of beverages, including beer and wine. Hours vary seasonally, roughly 11 a.m. to between 5 and 9 p.m.

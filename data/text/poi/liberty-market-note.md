@@ -1,0 +1,1 @@
+***A word of caution:  It's easy to lose the trail through the Laurel Hills neighborhood — watch for the CCT marker after the school and take the first sharp right; otherwise, you’ll hit a dead end. ***  

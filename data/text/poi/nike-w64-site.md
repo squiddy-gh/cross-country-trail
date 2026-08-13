@@ -1,0 +1,2 @@
+The Nike Missile site "W-64” located in Lorton Virginia was one of an array of 13 Cold War Nike Missile sites surrounding Washington DC.  It was part of the first nationwide U.S. air defense system designed to protect against a Soviet nuclear attack. 
+The Lorton site was decommissioned in 1973 and closed in 1974. 

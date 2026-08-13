@@ -1,0 +1,1 @@
+The pedestrian bridge over Giles Run is built on the surviving abutments of the old railroad trestle.

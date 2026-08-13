@@ -1,0 +1,1 @@
+Just off the CCT near Lake Accotink, this Civil War–era culvert served as a hiding place for Confederates before raids on the Orange & Alexandria Railroad, which once passed directly overhead. The line, running between Gordonsville and Alexandria, was a strategic Union supply route, and accounts describe repeated Confederate attempts to disrupt it.

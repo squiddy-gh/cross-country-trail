@@ -1,0 +1,1 @@
+North of Gabrielson Gardens, the trail continues to wind along Difficult Run, which once generated water power for several mills and helped both Union and Confederate soldiers cool off during the summer. The area changed hands repeatedly during the Civil War, and Mosby's Rangers are known to have camped here while resting stolen horses.

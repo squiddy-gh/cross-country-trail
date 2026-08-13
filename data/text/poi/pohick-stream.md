@@ -1,0 +1,1 @@
+The stretch between Laurel Hills and Hooes Road is one of the most scenic on the trail. Much of it parallels the Pohick stream, which you'll cross repeatedly — enjoy the cascading water and keep a lookout for deer hiding in plain sight.

@@ -1,0 +1,3 @@
+Created as a reservoir by the U.S. Army in 1943–44, the lake replaced an earlier 1918 dam built to supply water to a military training camp. After World War II, Fairfax County leased and later purchased the land to establish Lake Accotink Park. Boating, fishing, picnic facilities, a playground, mini-golf, and a 3.9-mile hiking loop are among the offerings, along with a 36-foot carousel built by the Allan Herschell Company between 1937 and 1945.
+
+The future of the man-made lake is uncertain, given the cost of ongoing dredging — there's talk of making it smaller but deeper.  Public restrooms, bottled water at the office, and beverage vending machines are available on site.

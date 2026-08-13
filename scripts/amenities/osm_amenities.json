@@ -1,0 +1,96 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-12T20:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1497746765,
+      "lat": 38.7933889,
+      "lon": -77.2150903,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3588113925,
+      "lat": 38.7768837,
+      "lon": -77.2034888,
+      "tags": {
+        "amenity": "toilets",
+        "seasonal": "summer",
+        "toilets:disposal": "chemical"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5122023898,
+      "lat": 38.7938394,
+      "lon": -77.2154103,
+      "tags": {
+        "amenity": "drinking_water",
+        "seasonal": "summer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5122023899,
+      "lat": 38.7941878,
+      "lon": -77.2150683,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5122023930,
+      "lat": 38.7783681,
+      "lon": -77.2028555,
+      "tags": {
+        "amenity": "drinking_water",
+        "seasonal": "summer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5122023931,
+      "lat": 38.778375,
+      "lon": -77.2029117,
+      "tags": {
+        "amenity": "toilets",
+        "seasonal": "summer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5583386048,
+      "lat": 38.9325803,
+      "lon": -77.3043261,
+      "tags": {
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "toilets:disposal": "pitlatrine",
+        "unisex": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5583390069,
+      "lat": 38.9360297,
+      "lon": -77.3118746,
+      "tags": {
+        "amenity": "drinking_water",
+        "check_date": "2026-07-20",
+        "drinking_water:seasonal": "yes",
+        "fee": "no",
+        "fountain": "bubbler",
+        "wheelchair": "limited"
+      }
+    }
+  ]
+}

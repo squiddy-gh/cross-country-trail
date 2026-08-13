@@ -1,0 +1,1 @@
+This bench honors Gerry Connolly, an ardent supporter of the Cross County Trail initiative. From here, the trail turns 90 degrees and continues on the other side of the field.    

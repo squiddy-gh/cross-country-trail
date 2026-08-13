@@ -1,0 +1,1 @@
+Worth a side trip: just a short distance from the CCT trailhead on the W&OD, the Meadowlark Connector Trail leads to Meadowlark Botanical Gardens — a serene, 95-acre oasis of lush greenery and vibrant blooms.

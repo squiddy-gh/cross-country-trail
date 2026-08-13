@@ -1,0 +1,1 @@
+One-half mile from the CCT, this shopping plaza serves up ice cream, Swiss baked goods, cold brews, and pub fare, among other things.

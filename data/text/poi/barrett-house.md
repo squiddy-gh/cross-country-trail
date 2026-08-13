@@ -1,0 +1,1 @@
+Believed to have been built in 1901 by lumber magnate William Wimsatt, this four-square farmhouse later passed to federal ownership in 1914. Its name comes from Eugene Barrett, who oversaw the workhouse inmates' agricultural work in the 1960s. Today the property belongs to Fairfax County.

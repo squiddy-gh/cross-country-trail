@@ -1,0 +1,1 @@
+A working 19th-century water-powered gristmill, restored and open for tours — the massive wooden gears once ground grain for the surrounding countryside, and still turn today for visitors.

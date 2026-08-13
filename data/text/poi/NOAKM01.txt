@@ -1,0 +1,1 @@
+The trail skirts the Oakmont Recreation Center, home to a 78-station driving range, a mini-golf course, and a challenging 1,456-yard, 9-hole par-3 course. There's plenty of parking, so consider adding a little golf to this stretch of the Cross County Trail.
