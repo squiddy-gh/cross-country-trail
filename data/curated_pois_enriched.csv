@@ -37,7 +37,7 @@ R04,Park,POI,Yankee Field,3,,10.82,38.7791153,-77.20262525,0.03,Short Detour,,,s
 P08,Parking,Parking,Yankee Field Parking,2,,10.82,38.7791153,-77.20262525,0.03,Short Detour,50,dirt,,,,,,,,,,parking,,,point,36,,,
 H17,Historic,POI,Civil War Era Tunnel,3,,11.99,38.79005862,-77.21174579,0.01,Short Detour,,,,,,,,,,PHCIVTUN,NCIVTUN,history,,https://www.atlasobscura.com/places/orange-and-alexandria-railroad-culvert,point,37,,,
 H18,Historic,POI,The Orange and Alexandria Railroad,3,,12.49,38.79303563,-77.21875172,,Along Trail,,,,,,,,,,PHORGRR,NORGRR,history,,,point,38,,,
-W02,Waterway,POI,Lake Accotink,3,,12.69,38.79386602,-77.21547104,,Along Trail,,,yes,yes,,,,,,"PHLAKEAC01, PHLAKEAC02",NLAKEAC,park,,,point,39,,,
+W02,Park,POI,Lake Accotink,3,,12.69,38.79386602,-77.21547104,,Along Trail,,,yes,yes,,,,,,"PHLAKEAC01, PHLAKEAC02",NLAKEAC,park,,,point,39,,,
 P09,Parking,Parking,Lake Accotink Parking,2,,12.44,38.79410326,-77.2145883,,Along Trail,200,gravel,,,Closes at dark,,,,,,,parking,,,point,40,,,
 H19,Historic,POI,Ravensworth Historical Marker,3,,14.79,38.80965038,-77.22098013,0.54,Detour,,,,,,,,,,PHRAVHM,NRAVHM,history,,,point,41,,,
 F05,"Food, Drink",POI,Ravensworth Shopping Plaza,3,,14.79,38.80989296,-77.22183815,0.47,Detour,,,,,,,,,,"PHRAVENS01, PHRAVENS02, PHRAVENS03",NRAVENS01,parking,,,point,42,,,
