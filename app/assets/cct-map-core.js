@@ -1,4 +1,4 @@
-/* Shared CCT map layer loader/rendering. Requires Leaflet, CCTMapConfig and CCTMapIcons. */
+/* Shared CCT map data loading and layer rendering. Requires Leaflet, CCTMapConfig and CCTMapIcons. */
 window.CCTMap = (() => {
   const cfg = window.CCTMapConfig;
   const icons = window.CCTMapIcons;
