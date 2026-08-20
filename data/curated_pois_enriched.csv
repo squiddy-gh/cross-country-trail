@@ -32,7 +32,7 @@ W01,Waterway,Area,Pohick Stream,4,,,,,,,,,,,,,,,,,NPOHS01,,,,area,30,3.13,8.04,5
 F04,"Food, Drink",POI,Pack a Picnic (Sunoco Station),3,,8.04,38.75647741,-77.2335702,0.43,Detour,,,yes,yes,,,,,,"PHGNG01, PHGNG02, PHGNG03",,"food, libations",,,point,31,,,
 W01,Waterway,Area,Accotink Stream Valley,4,,,,,,,,,,,,,,,,,,,,,area,32,8.04,10.82,9
 P06,Parking,Parking,Hooes Road Trail Parking,2,,8.04,38.75742841,-77.2259582,,Along Trail,6,gravel,,,,,,,Note this has very limited parking.  See Gambrill Road Commuter Lot for an alternative,,,parking,,,point,33,,,
-P07,Parking,Parking,Gambrill Road Commuter Lot,2,,8.04,38.75531056,", -77.23251358072011",0.47,Detour,223,paved,,,,,,,,,NGRCP01,parking,,https://www.fairfaxcounty.gov/connector/riders/gambrill,point,34,,,
+P07,Parking,Parking,Gambrill Road Commuter Lot,2,,8.04,38.75531056,-77.23251358,0.47,Detour,223,paved,,,,,,,,,NGRCP01,parking,,https://www.fairfaxcounty.gov/connector/riders/gambrill,point,34,,,
 R04,Park,POI,Yankee Field,3,,10.82,38.7791153,-77.20262525,0.03,Short Detour,,,seasonal,seasonal,,,,,,PHYANKFLD,NYANKFLD,discovery,,https://www.wsllbaseball.net/,point,35,,,
 P08,Parking,Parking,Yankee Field Parking,2,,10.82,38.7791153,-77.20262525,0.03,Short Detour,50,dirt,,,,,,,,,,parking,,,point,36,,,
 H17,Historic,POI,Civil War Era Tunnel,3,,11.99,38.79005862,-77.21174579,0.01,Short Detour,,,,,,,,,,PHCIVTUN,NCIVTUN,history,,https://www.atlasobscura.com/places/orange-and-alexandria-railroad-culvert,point,37,,,
